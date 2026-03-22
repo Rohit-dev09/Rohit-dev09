@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi 👋, I'm Rohit Kumar
 
-<!--
-**Rohit-dev09/Rohit-dev09** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Student from India  
+💻 Learning Programming & Development  
+🚀 Beginner Developer growing daily  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🧠 Currently Learning
+- C++
+- Python
+- Git & GitHub
+- Web Development
+
+---
+
+## 🛠️ Skills
+- C++
+- Python (Basics)
+- HTML & CSS
+- Problem Solving
+
+---
+
+## 📈 Goals 2026
+- Build real projects
+- Contribute to Open Source
+- Get Internship
+
+---
+
+## 📫 Connect With Me
+- LinkedIn: www.linkedin.com/in/rohit-coder
+- Email: rohitku723788@gmail.com
+
+⭐ Always learning something new!
